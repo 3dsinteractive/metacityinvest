@@ -11,4 +11,4 @@
 - MetaItem is ERC721 compatible contract that represent all virtual goods, building and avatar in MetaCity.
 - MetaCity is contract that can be used to match the brand and building to the land and calculate base price for all lands in MetaCity.
 - MetaMarket is contract that can be used to create NFT item for sell and buy.
-- MetaTweet is the contract that can be used to advertise the land and item to all citizen of MetaCity.
+- MetaTweet is ERC721 compatible contract that can be used to create a short message that can advertise the land and item to all citizen of MetaCity.
